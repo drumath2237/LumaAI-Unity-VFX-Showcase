@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LumaAIUnityVFXShowcase/Scenes/Main.unity
+    guid: 291240901cc7f544bbeb46f74f47f58b
   m_configObjects: {}
