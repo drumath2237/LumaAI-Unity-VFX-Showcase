@@ -17,9 +17,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -1413
+    x: -1683
     y: -189
-    width: 2778
+    width: 3048
     height: 1981
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -790,7 +790,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614607}
   m_ExposedName: CreamSodaPositionTexture
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -870,7 +870,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614609}
   m_ExposedName: CreamSodaColorTexture
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -2018,7 +2018,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":11.98431396484375,"y":11.98431396484375,"z":11.98431396484375}'
+      m_SerializableObject: '{"x":8.474189758300782,"y":8.474189758300782,"z":8.474189758300782}'
     m_Space: 2147483647
   m_Property:
     name: Color
